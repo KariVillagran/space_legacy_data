@@ -1,0 +1,8 @@
+id,fecha,planeta_origen,planeta_destino,distancia_km
+1,2024-01-01,Marte,Júpiter,62873000
+2,2024-02-01,Tierra,Saturno,1275000000
+3,2024/03/01,Venus,Neptuno,4300000000     
+4,2024-04-01,Mercurio,Júpiter,-67000000   
+5,2024-05-01,Martee,Júpiter,56000000      
+6,2024-06-01,Tierra,Saturno,0             
+7,2024-06-01,Tierra,Saturno,1275000000    
