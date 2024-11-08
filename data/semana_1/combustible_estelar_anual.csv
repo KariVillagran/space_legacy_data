@@ -1,0 +1,8 @@
+id,fecha,nave_espacial,combustible_consumido_litros,distancia_recorrida_km
+1,2024-01-01,Odisea,500000,1000000
+2,2024-02-15,Galactica,750000,1500000
+3,2024-03-10,Endeavour,300000,750000
+4,2024-04-20,Odisea,0,0
+5,2024-05-30,Aurora,250000,500000
+6,2024-06-25,Galactica,600000,1000000
+7,2024-07-15,Odisea,500000,1000000
